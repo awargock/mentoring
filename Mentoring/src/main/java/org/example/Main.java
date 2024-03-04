@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        //wykonaj zadanie domowe ponizej
+        //wykonaj zadanie domowe tutaj
 
 
 
