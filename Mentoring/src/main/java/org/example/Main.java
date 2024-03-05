@@ -5,7 +5,7 @@ public class Main {
 
 
         //wykonaj zadanie domowe ponizej
-
+        // testowe zadania
 
 
     }
